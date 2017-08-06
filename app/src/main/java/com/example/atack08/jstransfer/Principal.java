@@ -32,6 +32,7 @@ public class Principal extends AppCompatActivity {
 
 
         //Creamos el listener para la lista
+        //pruebas
         listaDesplegable.setOnItemClickListener(new DrawerItemClickListener());
 
     }
